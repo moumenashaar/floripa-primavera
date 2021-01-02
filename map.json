@@ -826,7 +826,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/tileset-map\/kitchen.png",
+         "image":"kitchen.png",
          "imageheight":288,
          "imagewidth":256,
          "margin":0,
@@ -839,7 +839,7 @@
         {
          "columns":16,
          "firstgid":393,
-         "image":"..\/tileset-map\/seat.png",
+         "image":"seat.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
